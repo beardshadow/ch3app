@@ -41,6 +41,7 @@ group :development, :test do
   gem 'capybara', '~> 2.13'
   gem 'selenium-webdriver'
   gem 'sqlite3', '1.3.13'
+  gem 'minitest-reporters', '1.1.16'
 end
 
 group :development do
